@@ -6,7 +6,7 @@ on:
 
 env:
   image: swiggy:v1
-  repo: nehakrr72/Docker-image-build
+  repo: nehakrr72/docker-image-build
 
 jobs:
   Build-Push-Docker-Image:
