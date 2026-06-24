@@ -1,0 +1,9 @@
+{
+  "name": "githubaction",
+  "version": "1.0.0",
+  "description": "CI/CD demo for GitHub Actions",
+  "scripts": {
+    "build": "echo 'Build step placeholder - no bundler configured'",
+    "test": "echo 'Test step placeholder - no tests configured yet'"
+  }
+}
