@@ -1,4 +1,4 @@
-name: DOCKER-PIPELINE
+name: DOCKERimage-PIPELINE
 
 on:
   push:
