@@ -1,9 +1,11 @@
 {
-  "name": "githubaction",
+  "name": "docker-image-build",
   "version": "1.0.0",
-  "description": "CI/CD demo for GitHub Actions",
+  "description": "CI/CD and Docker pipeline demo for GitHub Actions",
+  "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "build": "echo 'Build step placeholder - no bundler configured'",
-    "test": "echo 'Test step placeholder - no tests configured yet'"
+    "test": "node test.js"
   }
 }
